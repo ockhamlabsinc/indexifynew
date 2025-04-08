@@ -35,7 +35,7 @@ state_store = { path = "state_store" }
 strum = { version = "0.26.3", features = ["derive"] }
 tracing = "0.1.41"
 rand = "0.8.5"
-tokio = { version = "1.43.0", features = ["full"] }
+tokio = { version = "1.44.2", features = ["full"] }
 once_cell = "1.20.2"
 itertools = "0.14.0"
 serde_yml = "0.0.12"
